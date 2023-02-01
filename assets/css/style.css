@@ -203,7 +203,14 @@ input {
 .select2-dropdown {
   z-index: 8;
 }
-
+.main-menu > nav > ul > li.products > ul li a{
+  font-size: 12px !important;
+  border-bottom: 1px solid #522700;
+}
+.main-menu > nav > ul > li.products > ul li{
+  margin-bottom: 12px !important;
+  
+}
 select {
   width: 100%;
   background: transparent;
